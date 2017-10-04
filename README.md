@@ -24,7 +24,7 @@ Instead of actually accessing the data from a remote API, this challenge uses a 
 
 It is very easy to set-up.
 
-1 - Run the command `npm install` in the command line from this directory
+1 - Run the command `npm install -g json-server` in the command line from this directory
 
 2 - Run  `json-server --watch db.json`
 
