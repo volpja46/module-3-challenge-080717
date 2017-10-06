@@ -58,7 +58,7 @@ The book details should be added to this div
 
 ## Considerations
 
-You are free to solve this in any way you choose. It is not required that you have ES6 classes or use Object Orientation. We would recommend beginning with a straightforward functional implementation and refactoring to objects as needed.
+You are free to solve this in any way you choose. It is not required that you have ES6 classes or use Object Orientation. We would recommend beginning with a straightforward functional implementation and refactoring to objects as needed. *Please write all of your code in one file, even if your normal process would be to create another file to add code in. This will make grading significantly easier.*
 
 jQuery is included in this project, you can choose to use jQuery or vanilla JS.
 
